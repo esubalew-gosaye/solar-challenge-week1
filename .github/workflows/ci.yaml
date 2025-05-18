@@ -19,6 +19,6 @@ jobs:
       # - name: Install dependencies
       #   run: pip install -r requirements.txt
 
-      # Run tests
-      - name: Run test
+      # Check Python Version
+      - name: Run Check
         run: python --version
