@@ -3,8 +3,12 @@
 ## Project Overview
 
 This project involves analyzing environmental data related to solar farms in **Benin**, **Sierra Leone**, and **Togo**. The goal is to identify trends, extract insights, and provide recommendations for optimal solar installation regions to support long-term sustainability and energy goals.
-
 ---
+
+## streamlint dashboard
+```bash
+https://solar-challenge-week1-gxx5mdmtconknmteaap7rl.streamlit.app/
+```
 
 ## 🛠️ Tools & Technologies
 
