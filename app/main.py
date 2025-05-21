@@ -3,7 +3,6 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-# Basic config
 st.set_page_config(layout="wide", page_title="Solar Radiation Dashboard")
 
 st.title("☀️ Solar Radiation Analysis Dashboard")
